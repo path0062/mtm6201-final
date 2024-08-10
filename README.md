@@ -8,7 +8,7 @@ I opted to use the Bootstrap framework to construct this portfolio. While I poss
 
 My development process involved:
 
-1. **Reviewing Bootstrap Resources**: I delved into the official Bootstrap documentation to understand the framework's functionalities and components.
+1. **Reviewing Bootstrap Resources**: I delved into course material and official Bootstrap documentation to understand the framework's functionalities and components.
 2. **Learning from Tutorials**: To reinforce my understanding, I supplemented my learning with online tutorials on YouTube.
 
 ## Challenges Faced
@@ -34,3 +34,5 @@ Overall, creating this portfolio using Bootstrap has been a valuable learning ex
 ## Assets and Resources Used
 
 - [Bootstrap Framework](https://getbootstrap.com/)
+- [Google Fonts](https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Karla:wght@400;700&display=swap)
+- [Images - Canva.com](https://www.canva.com/)
